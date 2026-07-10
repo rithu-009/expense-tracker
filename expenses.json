@@ -1,0 +1,22 @@
+{
+    "Groceries": [],
+    "Fuel": [
+        {
+            "name": "jupiter",
+            "date": "02/07/2026",
+            "amount": 200
+        }
+    ],
+    "Snacks": [],
+    "Phone Bill": [],
+    "Medicine": [
+        {
+            "name": "dolo",
+            "date": "09-07-2026",
+            "amount": 50
+        }
+    ],
+    "TV/Internet Bill": [],
+    "Laundry/Ironing": [],
+    "OneTime Expenses": []
+}
